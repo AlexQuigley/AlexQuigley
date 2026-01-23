@@ -1,5 +1,37 @@
 <h2>Hello! I'm Alex Quigley, a Full Stack Engineer working for ParOne.</h2>
 
+<h2>About Me:</h2>
+
+```yaml
+name: Alexander Quigley
+located_in: Dallas, Texas
+current_job: Full Stack Engineer
+education:
+  [
+    "Bachelor's in Computer Science",
+  ]
+company: ParOne
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Cyber Security",
+    "Database Management",
+    "Backend Development",
+    "UI/UX",
+    "Game Development",
+  ]
+technical_background:
+  [
+    "ParOne - Full Stack Engineer",
+    "EPICS - Senior Developer",
+    "Pearadox - FIRST Robotics Programmer",
+    "Sigma Draconis - Game Dev",
+  ]
+  
+currently_learning: ["Painting, Work/Life Balance, Machine Learning"]
+hobbies: ["Gaming", "Cooking", "Formula 1", "Warhammer 40k", "Reading", "Movies", "TV"]
+```
 
 <h2>Tools I Often Use</h2>
 
