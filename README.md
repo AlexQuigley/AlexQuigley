@@ -1,6 +1,6 @@
-<h2>Hello! I'm Alex Quigley, a Full Stack Engineer working for ParOne.</h2>
+<h1>Hello! I'm Alex Quigley, a Full Stack Engineer working for ParOne.</h1>
 
-<h2>About Me:</h2>
+<h3>About Me:</h3>
 
 ```yaml
 name: Alexander Quigley
