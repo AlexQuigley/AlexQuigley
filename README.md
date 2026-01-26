@@ -25,8 +25,8 @@ technical_background:
   [
     "ParOne - Full Stack Engineer",
     "EPICS - Senior Developer",
-    "Pearadox - FIRST Robotics Programmer",
     "Sigma Draconis - Game Dev",
+    "Pearadox - FIRST Robotics Programmer",
   ]
   
 currently_learning: ["Painting, Work/Life Balance, Machine Learning"]
