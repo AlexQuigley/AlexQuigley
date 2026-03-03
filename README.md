@@ -39,6 +39,7 @@ hobbies: ["Gaming", "Cooking", "Formula 1", "Warhammer 40k", "Reading", "Movies"
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/></a>
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="45" height="45"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/></a>
+<a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-plain.svg" alt="vim" width="45" height="45"/></a>
 <a href="https://www.c-language.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" width="45" height="45"/></a>
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/></a>
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/></a>
@@ -56,6 +57,7 @@ hobbies: ["Gaming", "Cooking", "Formula 1", "Warhammer 40k", "Reading", "Movies"
 <a href="https://linuxmint.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-plain.svg" alt="linuxmint" width="45" height="45"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/></a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="sqlite" width="45" height="45"/></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/></a>
 </p>
 
 
