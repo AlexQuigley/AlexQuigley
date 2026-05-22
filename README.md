@@ -33,8 +33,6 @@ currently_learning: ["Painting, Work/Life Balance, Machine Learning"]
 hobbies: ["Gaming", "Cooking", "Formula 1", "Warhammer 40k", "Reading", "Movies", "TV"]
 ```
 
-<h4>NOTE: Microsoft has recently decided to change how GitHub handles external SVGs so now my nice and pretty Tools section is broken and only displays icons vertically, thanks Microsoft.</h4>
-
 <h2>Tools I Often Use</h2>
 
 <p align="left">
